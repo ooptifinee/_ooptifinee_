@@ -1,0 +1,24 @@
+h1 {
+	font-size: 22px;
+	text-align: center;
+}
+
+a {
+	font-style: italic;
+}
+
+.sp_pok {
+	text-align: center;
+}
+
+.ss1{
+	background: #629C7CFF;
+}
+
+h2.my-des {
+	text-align: center;
+}
+
+.ss0 {
+	cursor: url(ss0) 2 2, pointer;
+}

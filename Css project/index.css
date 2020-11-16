@@ -1,0 +1,40 @@
+h1 {
+	text-align: center;
+	font-size: 24px;
+}
+
+p{
+	font-size: 120%;
+}
+
+.kl1 {
+	color: #1FBB6D;
+}
+
+.kl2 {
+	color: #AD0014FF;
+}
+
+.kl3 {
+	color: #C67900FF;
+}
+
+.kl4 { /* Поміняй кл*/
+	color: #0000B7FF;
+}
+{
+	}.kl1:visited {
+		color: #FF6400;
+	}
+		
+	.kl2:visited {
+	color: #664814FF;
+	}
+
+	.kl3:visited {
+	color: #BD6241FF;
+	}
+
+	.kl4:visited {
+	color: #38001AFF;
+	}}
